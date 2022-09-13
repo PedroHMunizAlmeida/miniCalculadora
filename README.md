@@ -1,0 +1,2 @@
+# miniCalculadora
+Calculadora Simples
